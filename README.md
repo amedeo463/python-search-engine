@@ -1,4 +1,4 @@
-# python search engine
+# Python search engine
 ##### A search engine made in python
 ## LICENSE:
 This repository is under the Apache license 2.0.
